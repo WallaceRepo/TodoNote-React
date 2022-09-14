@@ -21,7 +21,7 @@ You may also see any lint errors in the console.
  npm i -g serve.
  Before running server, remember, server needs build folder done in React. 
  
- ### serve -s build -p 8000 \ It will serve webapp on localhost 8000.
+ serve -s build -p 8000 \ It will serve webapp on localhost 8000.
 
 Launches the JSON server in port 5000 watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
