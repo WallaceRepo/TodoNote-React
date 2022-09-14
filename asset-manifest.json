@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoNote-React/static/css/main.b6bbd041.css",
+    "main.js": "/TodoNote-React/static/js/main.5ee7bd55.js",
+    "static/js/787.3a2d2fc4.chunk.js": "/TodoNote-React/static/js/787.3a2d2fc4.chunk.js",
+    "index.html": "/TodoNote-React/index.html",
+    "main.b6bbd041.css.map": "/TodoNote-React/static/css/main.b6bbd041.css.map",
+    "main.5ee7bd55.js.map": "/TodoNote-React/static/js/main.5ee7bd55.js.map",
+    "787.3a2d2fc4.chunk.js.map": "/TodoNote-React/static/js/787.3a2d2fc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bbd041.css",
+    "static/js/main.5ee7bd55.js"
+  ]
+}
